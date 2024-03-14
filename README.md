@@ -1,1 +1,2 @@
-# Hackathon_2023_Vaccination
+2023 Hackathon competition in Buet.
+(Incomplete Repo)
